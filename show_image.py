@@ -80,7 +80,7 @@ def main():
 
 
     # set api_key
-    birdconv.api_request["uid"] = "0dtTMNNV6tYiNoSco8fdL3lzyYp2"
+    birdconv.api_request["uid"] = "API KEY HERE"
 
     # get the list of birdconv devices
     devices  = birdconv.active()
