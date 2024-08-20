@@ -47,7 +47,7 @@ def create_room( devices , recording=False, expiryTime=1):
     }
     roomRequest.update(api_request)
 
-    return send_request(room_path, roomRequest, printit=False)
+    return send_request(room_path, roomRequest, printit=True)
 
 # get a token for this program to join a room
 def create_token( room  , username):

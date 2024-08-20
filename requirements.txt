@@ -2,3 +2,5 @@ boto3
 requests
 daily-python
 pillow
+sounddevice
+numpy

@@ -5,6 +5,7 @@ import birdconv
 from   daily import *
 
 
+
 BUFFER  = 2 # 2 second of buffering
 
 SAMPLE_RATE = 16000
